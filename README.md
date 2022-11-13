@@ -10,11 +10,11 @@ This is a bare bones template for expo using TypeScript and NativeWind and using
 + git clone https://github.com/IvanDuran02/expo-ts-template
 
 # install dependencies
-+ yarn install
+yarn install
 
 # remove the .git folder and create your own
-- rm -r .git
-+ git init
+rm -r .git
+git init
 
 ```
 
