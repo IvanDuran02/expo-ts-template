@@ -1,0 +1,12 @@
+// this file will recommend users to install these extensions if not already installed.
+{
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "bradlc.vscode-tailwindcss",
+      "christian-kohler.path-intellisense",
+      "ecmel.vscode-html-css"
+    //   "Prisma.prisma"
+    ]
+  }
+  
